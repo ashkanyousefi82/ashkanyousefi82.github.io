@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile1.png"
   name             : "Ashkan Yousefi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Industrial Engineering Bachelor graduate"
   location         : "Iran, Tehran"
   employer         : "Kharazmi University"
-  uri              : # URL
+  uri              : ""
   email            : "ashkanyousefi82@gmail.com" 
 
   # Academic websites
